@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fed7027-326f-4c5c-add7-429807ab5687" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teacher/fenlei/1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teacher/fenlei/stop_words.txt" afterPath="$PROJECT_DIR$/teacher/fenlei/stop_words.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="teacher.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/spiders/teacher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teacherName.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/teacher/spiders/teacherName.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1620">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iframe.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/spiders/iframe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="word.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/fenlei/word.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320489">
+              <caret line="48907" column="2" lean-forward="false" selection-start-line="48907" selection-start-column="2" selection-end-line="48907" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/fenlei/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="92" column="36" lean-forward="false" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fenleiTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/fenlei/fenleiTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/fenlei/1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="13" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/spiders/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/fenlei/svm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="64" column="18" lean-forward="false" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacher/fenlei/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1971">
+              <caret line="98" column="31" lean-forward="false" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
+              <folding>
+                <element signature="e#1#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://www.cse.zju.edu.cn/chinese/redir.php?catalog_id=38182</find>
+      <find>http://geo.wengea.com/photo/html/?35.html</find>
+      <find>http://sdxy.hhu.edu.cn/s/68/t/2863/p/1/c/2196/d/2200/list.htm</find>
+      <find>http://sdxy.hhu.edu.cn/s/68/t/2863/p/1/c/2196/d/3129/list.htm</find>
+      <find>op=rom&amp;rm=</find>
+      <find>DNS_TIMEOUT</find>
+      <find>http://www.chem.zju.edu.cn/chinese/redir.php?catalog_id=2921&amp;object_id=7556</find>
+      <find>的</find>
+      <find>:</find>
+      <find>class 1</find>
+      <find>750X1347</find>
+      <find>test</find>
+      <find>_</find>
+      <find>plt</find>
+      <find>time</find>
+      <find>nan</find>
+      <find>con</find>
+      <find>print(x[i, j])</find>
+      <find>dr</find>
+      <find>MultiOutputRegressor</find>
+      <find>PAR</find>
+      <find>#</find>
+      <find>sta</find>
+      <find>start</find>
+      <find>rdl</find>
+      <find>max</find>
+      <find>12.31</find>
+      <find>12.</find>
+      <find>721</find>
+      <find>PLSRegression</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/teacher/fenlei/stop_words.txt" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/stop_word.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/word.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/fenci.txt" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/dot.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/td_idf.txt" />
+        <option value="$PROJECT_DIR$/qingxi.py" />
+        <option value="$PROJECT_DIR$/text.txt" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/hebing.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/kmean.txt" />
+        <option value="$PROJECT_DIR$/teacher/spiders/teacher.py" />
+        <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/teacher/spiders/test.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/test3.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/test.txt" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/file2.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/file.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/test2.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/fenleiTest.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/label.txt" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/class.txt" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/fenci.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/svm.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/Sql.py" />
+        <option value="$PROJECT_DIR$/teacher/util/mysql.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/test1.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/testAB.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/readExcel.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/data/knn_ans_a_1.csv" />
+        <option value="$PROJECT_DIR$/teacher/ali/DTR.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/deletef.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/SelectKBest.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/DecisionTreeRegressor.py" />
+        <option value="$PROJECT_DIR$/teacher/RegressorTest.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/Imanufactur.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/zheshu.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/lindo.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/data/jisuan.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/guihu.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/jisuan.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/xianxiguihua.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/settime.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/delete_jizhi.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/test.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/RegressorTest.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/test.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/delete_f.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/NeighborsRegressor.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/linear_regression.py" />
+        <option value="$PROJECT_DIR$/teacher/ali/LDA.py" />
+        <option value="$PROJECT_DIR$/teacher/fenlei/1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="684" />
+    <option name="width" value="1243" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="teacher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="teacher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="teacher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+              <item name="fenlei" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="teacher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="teacher" type="cbb8eebc:String" user="teacher" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\teacher\teacher\ali" />
+      <recent name="F:\python\teacher\teacher\ali\data" />
+      <recent name="F:\python\teacher\teacher\spiders" />
+      <recent name="F:\python\teacher\teacher\fenlei" />
+      <recent name="F:\python\teacher\teacher\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python\teacher" />
+      <recent name="F:\python\teacher\teacher\data" />
+      <recent name="F:\python\teacher\teacher" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.svm">
+    <configuration name="LDA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teacher/ali" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teacher" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teacher/ali/LDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="NeighborsRegressor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teacher/ali" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teacher" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teacher/ali/NeighborsRegressor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Program Files\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teacher" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="fenleiTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teacher/fenlei" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teacher" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teacher/fenlei/fenleiTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teacher/ali" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teacher" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teacher/ali/linear_regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teacher/fenlei" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teacher" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teacher/fenlei/svm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="xin" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teacher/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teacher" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teacher/util/xin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.xin" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="Python.linear_regression" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NeighborsRegressor" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LDA" />
+      <item index="5" class="java.lang.String" itemvalue="Python.fenleiTest" />
+      <item index="6" class="java.lang.String" itemvalue="Python.svm" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.svm" />
+        <item index="1" class="java.lang.String" itemvalue="Python.fenleiTest" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LDA" />
+        <item index="3" class="java.lang.String" itemvalue="Python.linear_regression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.NeighborsRegressor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\fengge\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fed7027-326f-4c5c-add7-429807ab5687" name="Default" comment="" />
+      <created>1510285184329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510285184329</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1513605189724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513605189724</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1513676452111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513676452111</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1513762375118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513762375118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1513827991252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1513827991252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1513863937667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1513863937667</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1513915687177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1513915687177</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update-12-22">
+      <created>1513951008799</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1513951008799</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update-12-22">
+      <created>1513951296871</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1513951296871</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update-12-23">
+      <created>1514036281181</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1514036281181</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update-12-23">
+      <created>1514037452970</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1514037452970</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update-12-23">
+      <created>1514038363625</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1514038363625</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update-12-24">
+      <created>1514120841232</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1514120841232</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update-12-24">
+      <created>1514168522954</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1514168522954</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update-12-24">
+      <created>1514294848031</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1514294848031</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update-1-2">
+      <created>1514883425939</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1514883425939</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update-1-2">
+      <created>1514897850523</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1514897850523</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update-1-3">
+      <created>1514965121462</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1514965121462</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update-1-8">
+      <created>1515402213258</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1515402213258</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1641791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.7121535" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35249457" sideWeight="0.62899786" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.061833687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275488" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.4914712" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286334" sideWeight="0.7121535" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4936034" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18976545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275488" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35249457" sideWeight="0.62899786" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.061833687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="update-12-22" />
+    <MESSAGE value="update-12-23" />
+    <MESSAGE value="update-12-24" />
+    <MESSAGE value="update-1-2" />
+    <MESSAGE value="update-1-3" />
+    <MESSAGE value="update-1-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="update-1-8" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/spiders/teacher.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/fenlei/test2.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/fenlei/test2.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/spiders/test.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/fenlei/fenleiTest.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/fenlei/svm.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/fenlei/Sql.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/settime.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/linear_regression.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/delete_jizhi.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/delete_jizhi.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/delete_jizhi.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/delete_jizhi.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/jisuan.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/jisuan.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/Imanufactur.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/delete_f.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/xianxiguihua.py</url>
+          <line>460</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/xianxiguihua.py</url>
+          <line>456</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/RegressorTest.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/test.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/delete_f.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/LDA.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teacher/ali/linear_regression.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="432" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/Program Files/python/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="2528" column="0" lean-forward="false" selection-start-line="2528" selection-start-column="0" selection-end-line="2528" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/util/xin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/RegressorTest.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/time_col_2.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/time_col_3.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/time_regular_mean_tool_5.csv" />
+    <entry file="file://F:/Program Files/python/Lib/site-packages/pandas/core/internals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="4602" column="0" lean-forward="false" selection-start-line="4602" selection-start-column="0" selection-end-line="4602" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files/python/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/ali/DecisionTreeRegressor.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/SelectKBest.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/zheshu.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/123.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/value1/0.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/value1/50.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/value/4997.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/jisuan.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/guihu.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/Imanufactur.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/delete_jizhi.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/quchujizhi_4.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/concat.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/ten.csv" />
+    <entry file="file://F:/Program Files/python/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8370">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files/python/Lib/site-packages/scipy/stats/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80541">
+          <caret line="3000" column="0" lean-forward="false" selection-start-line="3000" selection-start-column="0" selection-end-line="3000" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/ali/jisuan.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/delete_f.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/time_regular_mean_5.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/lindo.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/plt.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/RegressorTest.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/settime.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/test.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/xianxiguihua.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/delf_time_regular_mean_tool_5.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/data/delete_unuse_feature_2.csv" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/NeighborsRegressor.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/linear_regression.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/ali/LDA.py" />
+    <entry file="file://$PROJECT_DIR$/teacher/fenlei/fenci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/fenlei/fenci.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/spiders/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/fenlei/word.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320489">
+          <caret line="48907" column="2" lean-forward="false" selection-start-line="48907" selection-start-column="2" selection-end-line="48907" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/spiders/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/fenlei/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="98" column="31" lean-forward="false" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/fenlei/fenleiTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/fenlei/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="13" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/fenlei/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="64" column="18" lean-forward="false" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/fenlei/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="92" column="36" lean-forward="false" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/spiders/iframe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/spiders/teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/spiders/teacherName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
